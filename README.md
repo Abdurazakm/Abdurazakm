@@ -7,21 +7,23 @@
 
 ### 🚀 About Me
 
-👨‍💻 I'm a dedicated and passionate Software Engineering student at **Addis Ababa Science and Technology University (AASTU)**.  
-🎓 I am currently enrolled in the **ALX Backend Software Engineering Program** — enhancing my skills in building robust systems and scalable backend applications.  
-🔍 I love turning ideas into real-world projects, especially when they involve impactful backend systems, clean architecture, and open-source collaboration.  
-💡 I’m inspired by innovation, community-driven technology, and solutions that improve lives.
+👨‍💻 I’m a **Software Engineering student** at **Addis Ababa Science and Technology University (AASTU)**.  
+🎓 Currently enrolled in the **ALX Backend Software Engineering Program**, building expertise in robust systems and scalable backend applications.  
+🔍 I enjoy transforming ideas into impactful real-world projects, focusing on clean architecture, backend systems, and open-source collaboration.  
+💡 Inspired by innovation, community-driven tech, and solutions that improve lives.  
+
+👉 Check out my portfolio here: **[abdurazakms-projects.vercel.app](https://portfolio-1i5s-git-version-2-abdurazakms-projects.vercel.app/)**  
 
 ---
 
 ### 🎯 My Vision
 
-My goal is to **become a world-class backend engineer**, contributing to mission-driven projects that blend engineering excellence with real-world impact.  
-I would like to work on:
+My goal is to **become a world-class backend engineer**, contributing to mission-driven projects that combine engineering excellence with real-world impact.  
+I want to work on:
 - RESTful APIs and scalable backend systems  
 - Developer tools and SaaS platforms  
 - Chatbots and AI integrations  
-- Systems programming and open-source backend utilities
+- Systems programming and open-source backend utilities  
 
 ---
 
@@ -78,4 +80,3 @@ I would like to work on:
 > "Great software is born from solving meaningful problems, not just writing code."
 
 <!-- Proudly built with heart and intention -->
-
